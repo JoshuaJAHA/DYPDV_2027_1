@@ -5,10 +5,15 @@
 // Parámetros de configuración de las paletas
 const float PADDLE_WIDTH = 4.0f;
 const float PADDLE_HEIGHT = 22.0f;
+const float PADDLE_SPEED = 3.0f; // Velocidad de movimiento
 
 // Posiciones iniciales en el eje Y para los dos jugadores (en 60)
 float paddle1_y = 60.0f;
 float paddle2_y = 60.0f;
+
+// registrar teclas mantenidas presionadas 
+bool keys[256] = { false };
+bool specialKeys[256] = { false };
 
 // Dibuja una paleta rectangular a partir de su punto central (x, y)
 void draw_paddle(float x, float y) {
@@ -18,6 +23,24 @@ void draw_paddle(float x, float y) {
         glVertex2f(x + PADDLE_WIDTH / 2.0f, y + PADDLE_HEIGHT / 2.0f);
         glVertex2f(x - PADDLE_WIDTH / 2.0f, y + PADDLE_HEIGHT / 2.0f);
     glEnd();
+}
+
+void update_paddles() {
+    // Controles Jugador 1
+    if (keys['w'] || keys['W']) paddle1_y += PADDLE_SPEED;
+    if (keys['s'] || keys['S']) paddle1_y -= PADDLE_SPEED;
+
+    // Controles Jugador 2
+    if (specialKeys[GLUT_KEY_UP]) paddle2_y += PADDLE_SPEED;
+    if (specialKeys[GLUT_KEY_DOWN]) paddle2_y -= PADDLE_SPEED;
+
+    // Restringir paleta 1 a los bordes 
+    if (paddle1_y - PADDLE_HEIGHT / 2.0f < 0.0f) paddle1_y = PADDLE_HEIGHT / 2.0f;
+    if (paddle1_y + PADDLE_HEIGHT / 2.0f > 120.0f) paddle1_y = 120.0f - PADDLE_HEIGHT / 2.0f;
+
+    // Restringir paleta 2 a los bordes 
+    if (paddle2_y - PADDLE_HEIGHT / 2.0f < 0.0f) paddle2_y = PADDLE_HEIGHT / 2.0f;
+    if (paddle2_y + PADDLE_HEIGHT / 2.0f > 120.0f) paddle2_y = 120.0f - PADDLE_HEIGHT / 2.0f;
 }
 
 // Renderiza una red punteada al centro de la cancha
@@ -38,6 +61,9 @@ void draw_field() {
 void Display(void) {
     // Limpiamos la pantalla con el color de fondo 
     glClear(GL_COLOR_BUFFER_BIT);
+
+    // Actualizamos posiciones de paletas en cada frame
+    update_paddles();
 
     // Dibujamos la cancha detrás de los elementos
     draw_field();
@@ -70,6 +96,11 @@ void init(void) {
     glClearColor(0.0f, 0.0f, 0.0f, 1.0f);
 }
 
+void keyDown(unsigned char key, int x, int y) { keys[key] = true; }
+void keyUp(unsigned char key, int x, int y) { keys[key] = false; }
+void specialKeyDown(int key, int x, int y) { specialKeys[key] = true; }
+void specialKeyUp(int key, int x, int y) { specialKeys[key] = false; }
+
 int main(int argc, char* argv[]) {
     // GLUT
     glutInit(&argc, argv);
@@ -82,6 +113,12 @@ int main(int argc, char* argv[]) {
     // Registro de callbacks 
     glutDisplayFunc(Display);
     glutReshapeFunc(reshape);
+
+    // Registro de callbacks de teclado para controles
+    glutKeyboardFunc(keyDown);
+    glutKeyboardUpFunc(keyUp);
+    glutSpecialFunc(specialKeyDown);
+    glutSpecialUpFunc(specialKeyUp);
 
     // Bucle principal
     glutMainLoop();
