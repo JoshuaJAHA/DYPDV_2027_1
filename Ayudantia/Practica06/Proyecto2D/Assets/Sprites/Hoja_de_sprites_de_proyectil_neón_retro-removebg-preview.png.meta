@@ -1,0 +1,3436 @@
+fileFormatVersion: 2
+guid: a39cf7e43e9594a0b93296d20cd851f8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_0"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 290
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8183edb6a9a304a418768986ab3f534b
+      internalID: -1699861179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_1"
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 290
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62301c24bc784fb3944ea378cab048e
+      internalID: 1534944212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_2"
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 288
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2659d4ffd7d84114831e7cfcb153181
+      internalID: -792580498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_3"
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 284
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf52a688a1afb4a71a987cc84f29e109
+      internalID: 1041907463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_4"
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 280
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029734b0f72164707b0e99e62a4747a0
+      internalID: -775122762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_5"
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 278
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a5ab2a8e41a47ea9ee2a9126285aed
+      internalID: 1703230557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_6"
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 276
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88295742772fc4067aa59a342d7c15a9
+      internalID: 153143670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_7"
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 278
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b9932c6eb794359bf9ad7553ad52b9
+      internalID: 1230018355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_8"
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 278
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb40aca67ce244e588dad42f3aed5664
+      internalID: -570748798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_9"
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 286
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8fc587d2f874c3fb961ed70613cdea
+      internalID: -1095402516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_10"
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 230
+        width: 73
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3d438e118374dc19763bf4cccc4d2c
+      internalID: 1329117182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_11"
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 230
+        width: 66
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e571039bc99d48059fb1177a583dfcd
+      internalID: 1827492948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_12"
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 230
+        width: 72
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb79cfa48db45491ca5dcded022df88e
+      internalID: 841807179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_13"
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 230
+        width: 71
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5092bc08cf703467cb9fe91c62938b03
+      internalID: 1706857543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_14"
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 229
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7e789347890446b96200590cf2f573
+      internalID: -1524577099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_15"
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 228
+        width: 64
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846ca1cc3fed6486cace96530c71ecee
+      internalID: 1351187031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_16"
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 228
+        width: 61
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f3643a815944ffa8a79cbdacf8bd25
+      internalID: 1869290928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_17"
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 229
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005f97abac0e742db9ad670219bc8727
+      internalID: -2098206956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_18"
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 229
+        width: 62
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e818ae28ac73439d9c509451f433587
+      internalID: -1439618503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_19"
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 171
+        width: 77
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823282de57a70438999105588c708f65
+      internalID: 1115171720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_20"
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 171
+        width: 77
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e803b3dd57a1144e68f0210e8e18ebd2
+      internalID: -13018747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_21"
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 171
+        width: 74
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5e3eb8f6303444b88ec2e7ff6b4e9b
+      internalID: -1906125441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_22"
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 171
+        width: 71
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f05b21ff4071435bb8a85b2f1af9bae
+      internalID: -99553306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_23"
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 171
+        width: 70
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721662c45eae84a5ab5b4ad2bcb38098
+      internalID: -192167097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_24"
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 171
+        width: 68
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e77d6a9ab6b41eab9ada9fc6fb9357
+      internalID: -102454239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_25"
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 171
+        width: 62
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b73b529079d494da0fed9876eb44e5
+      internalID: -328822405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_26"
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 171
+        width: 64
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886136f4ff25a4f9186a18a4d568ec72
+      internalID: -2124282241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_27"
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 171
+        width: 65
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286ed109d07474dbf98540f0f10df252
+      internalID: 153608507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_28"
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 89
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77b92eb3f11847bb922fe1a55edabe0
+      internalID: -1998942121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_29"
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 87
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af3db1323fd946e1a5f4fd28140f559
+      internalID: -829578862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_30"
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 85
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508625c29c4274630886583c3da577e9
+      internalID: -1456602085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_31"
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 87
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d00fbafc1a0245fdb8fe8687b46de4b
+      internalID: 1480780231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_32"
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 86
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e54b107a9a034ad3958b8dd51524c09
+      internalID: 754034882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_33"
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 89
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d2aa1ffc5ee46f884c3aeb11e8cd23
+      internalID: -133776175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_34"
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 127
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e912bfdb79ade4f1d957a7057cfc4e26
+      internalID: 1326465927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_35"
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 95
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0e0903c8a5c445999778905a45b584
+      internalID: -1018607134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_36"
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 125
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b16051909a5a418da3ba1e37e7cc893
+      internalID: -645583470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_37"
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 129
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d6c1603b85243bb89e159327bc28ad
+      internalID: 883176551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_38"
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 101
+        width: 74
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a97bbe990c24cfda2d0acb511338ec
+      internalID: 1384516695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_39"
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 115
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9fb410d539f451e8930bd2406a929b
+      internalID: 1251472235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_40"
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 118
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3687e8bce0b9f4fbe83da1ff45c0d95c
+      internalID: 609086059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_41"
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 116
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ae91103e4584a0cb0294f3c3387a93
+      internalID: 184394722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_42"
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 98
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe78c69eb247421ea27437edfab34ae
+      internalID: 2071893695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_43"
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 119
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d1ca4d38b714e508139b609629ba0d
+      internalID: 870187150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_44"
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 106
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a1df0927f724646bf883d1b5e9ac6a
+      internalID: -1245486286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_45"
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 110
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7a06e1a488345e8863b8df1ddd5114
+      internalID: 1949469547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_46"
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 96
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32d6b78bc60f40ce85ea2ed65aa9d81
+      internalID: -1073771891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_47"
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 101
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea6399edc89d4422a44d902c8f4da46
+      internalID: 722912375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_48"
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 86
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdc87bce96ab48fe95290bbcf2f7ae9
+      internalID: -210801453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_49"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 90
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf728ff0658d24be981d4d5a01c3c333
+      internalID: 1656027919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_50"
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 89
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f0918d6174044929d935ca3ae911e5
+      internalID: -1544428081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_51"
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 90
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a5eb14f5cc9430fbf2e059aed996a0
+      internalID: 1972008976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_52"
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 18
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dc047cad3c94571a89d5e61eaea019
+      internalID: 776873771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_53"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 61
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4f4359c71094d5cb62dd35bf439ad8
+      internalID: -653177184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_54"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 39
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854089bc0d4d0475da946449f1ff6389
+      internalID: 38471038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_55"
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 63
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b679d182752b4e58a7f8c3bcc136708
+      internalID: -1413016853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_56"
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db07070a726ff46c0b869302c78dec54
+      internalID: 120402914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_57"
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 57
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984654d4bf7cd4ee6b08fd516ea35597
+      internalID: 521290598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_58"
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 63
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b39ccc14f4534b5aad289c8bd9a0505
+      internalID: 737917715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_59"
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 60
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab6aad7deb234c5cb3618a1ddd5910e
+      internalID: -18075722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_60"
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 63
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085cb1ebb52794f328509d8fac353a31
+      internalID: 1494313523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_61"
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 60
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3cd053d309b4b939777c1043381f86
+      internalID: 1056249636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_62"
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 63
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263a36f863b1840849fa69d03a942aa4
+      internalID: 1611393419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_63"
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 60
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6893133e86c794d76940f585022695b4
+      internalID: -681530440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_64"
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 57
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48e081d33f014bcc9fddaac88e84110
+      internalID: -1080727746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_65"
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 57
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5f17f8862274cbca862f9c30cae1bb
+      internalID: -1644042389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_66"
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 57
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6368764cc5dfb43bc90b7d1db0ac0620
+      internalID: -1261921115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_67"
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 51
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad524a2ba3074bc2b51dd195088788f
+      internalID: -356199650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_68"
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 55
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f24e35b679e47bf8e7b815c604f8aa
+      internalID: 1747855467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_69"
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 57
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71aad8d4ccfc54ea2b2af4871a05c0a6
+      internalID: 231564372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_70"
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 54
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4973d1e617d4ffe968969659fbac10
+      internalID: -2039771796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_71"
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 52
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebebf5e0a5564509821f0f541cfa755
+      internalID: -67649191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_72"
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 50
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbd2bad6883b4841986707772b96ed3
+      internalID: -439895548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_73"
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 54
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a1707f71e3d4a6e8ef7ef7734ff315
+      internalID: 692455821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_74"
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 52
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55fafa434c4c438db7a7a5e3d58bd3a
+      internalID: -1874597133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_75"
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 57
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd8c5e1c60bb46afb87ed9fd8f0db3b
+      internalID: -470629420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_76"
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 57
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6254f54e9ef46938b01ab4bcadd1c0
+      internalID: 265031865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_77"
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 57
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211bf5f9e4f9c4ac597603960d041078
+      internalID: 175542685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_78"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 52
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbee486a5e6c54ef5ad49f321f5dc794
+      internalID: -1162095878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_79"
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 50
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f272ca6fae9946bdadaeb42a238c82e
+      internalID: -848839882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_80"
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 53
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fd591702e9d412a8416f3d6b6a1eef
+      internalID: 1931360653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_81"
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 51
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7c2c36d12b540e4b7bf8063594df96
+      internalID: -1968332501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_82"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 50
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1f0e6db9bfa4955ae80d62d007ee99
+      internalID: -683753928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_83"
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 50
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5390b049d21dd4136a603b5e213941ee
+      internalID: 1216720720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_84"
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 51
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2cf198c20d945d2a2dd7edc0674b09
+      internalID: 1502782045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_85"
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 52
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccf94a7ac5134e93b8343e6405ed74b
+      internalID: -182251190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_86"
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 51
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f58148306bb4fd69af1f776500f644
+      internalID: -1718040545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_87"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 52
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b254f7818464d4398ac42daa4cd4db10
+      internalID: 1164812083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_88"
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 52
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a92e2e7dbec447ca972fc60471521f
+      internalID: 669721597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_89"
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 52
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fc05ab2a49448caa3eea8c367e2c3b
+      internalID: 523188846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_90"
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 34
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0965e803be54eb38458b021791f751
+      internalID: 99842833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_91"
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 42
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9220896ad764facaa149847092c8df
+      internalID: 630434948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_92"
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 44
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c429f8b47c4463a94bc184b4cfacb3
+      internalID: 1590916447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_93"
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 48
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2c1b0549ba54fee91a10e7f0c19152
+      internalID: -124610390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_94"
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 41
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2cedacd5b6e4f77bb8238c37926d9b
+      internalID: 642659366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_95"
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 48
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4f1369f52924280a940b0f8167f82a
+      internalID: 2067284980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_96"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 42
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764b9629ef0b44084bbc1e116af98dac
+      internalID: 1282839063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_97"
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 48
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735b828d7a245460ca0c85d3e80aea92
+      internalID: 898566558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_98"
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 48
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4714578d4e08d4d1eb4022707f84b5c0
+      internalID: -256175535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_99"
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 41
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e11eb27a5d943c2a973a2a4b7bc528
+      internalID: 220618545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_100"
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 48
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7184279178e4b43a39b33a832f04d877
+      internalID: 959182225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_101"
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 42
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d05812bfb3d4a1dbcd482f23cd6208
+      internalID: 1244112131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_102"
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 41
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d5e41e1db64413e99f731b173bdc33
+      internalID: 1756654936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_103"
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 48
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7d534f5b7b94d69b1dc9b2b8190851
+      internalID: 651021470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_104"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 33
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de4847ca35e04c30b22338a4896d0dc
+      internalID: 1263702861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_105"
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 41
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0a3e6f5431f4c7ea5a4840412d7dc6
+      internalID: 1905976486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_106"
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 43
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b3238293d3f474f8f6c482b36b4b7f
+      internalID: -1336982890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_107"
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 38
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceac74dc151f2409ebfccfc7a70fafc5
+      internalID: -947812239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_108"
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 41
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab32366def78343e1aaa1dbf6b5366fb
+      internalID: -1499518545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_109"
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 38
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de01452661c74928b05efd0367a2fe6
+      internalID: -400484094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_110"
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 41
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce10c6886e74410d955554351d00f0d
+      internalID: 1863387524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_111"
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 40
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df15a47d6812b43df8a0696611672616
+      internalID: -1752784963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_112"
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 39
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340d9cbcbaa8c4418901d2ae2e393288
+      internalID: 1303231638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_113"
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 32
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee968b7c05a14dba9cc0e627cebb9eb
+      internalID: 1505310576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_114"
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 31
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526cdc754746f4e438ea09e514be72c3
+      internalID: 959921067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_115"
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 28
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af1ce6bff4a14aaf916d3d2da641b32
+      internalID: -1643428682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_116"
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 38
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259182298490c4d58b15d02d441fc937
+      internalID: -1672154594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_117"
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 37
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15138a55ac073411c9d06949a017b9e8
+      internalID: 1086982273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_118"
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 38
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763bf7ee03dcd49ec922d314d92533a4
+      internalID: 215520234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_119"
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 37
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70da7d11e8bf4ec5a9227d6ac454e3d
+      internalID: -156306359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_120"
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 39
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b4e5140cf1d482db8df402c97b8bec
+      internalID: -1549590638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_121"
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 34
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a86413262eb24c12bf38835edf44436
+      internalID: 1718952523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_122"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 33
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40517efbe0fbf4fed80d8f5280e46b1a
+      internalID: 1479741435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_123"
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 34
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405ccf88453d644c4b13d6cdf9434b19
+      internalID: -1982733349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_124"
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 34
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cc27f7a0d1646cea6fac5a17ae5262
+      internalID: -1715104942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_125"
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 29
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bfc036e1d6d4c18863ef00b12b5507
+      internalID: 1868847741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_126"
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 34
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271f59a361dae49bea119e2647240cf8
+      internalID: 1228652526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_127"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 34
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe57f18a45ef43cfbed1f00292cf461
+      internalID: 2018206639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_128"
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 29
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353aea07e19944916937b6c0d614ef38
+      internalID: -688177334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_129"
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 25
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cd80d810a944864822a86b202764db
+      internalID: -837144609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_130"
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 34
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69b389600e044b7ba45efccbc8c2345
+      internalID: -224386218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_131"
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 30
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b4e94015455422884aa64cd5fb9048
+      internalID: 2087335267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_132"
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 34
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba8bb11c448f4060b830f3b88b53509
+      internalID: -709231395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_133"
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bfd443871ff4ea7aa3ba7de8a48691
+      internalID: -161979295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_134"
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 26
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f75ae0e6d9e4a13b05daa73a384162
+      internalID: -48488919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_135"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 27
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f553fc003075747ceaf7861b05548ac4
+      internalID: 1814661110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_136"
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 25
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1f389f7b9c046a695c3646426361fc
+      internalID: 1248764903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_137"
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 19
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b84d8bccb3b4e7fafbcf6d9201cea8
+      internalID: -374156367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_138"
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 25
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681bf31bb0ce1425bae548382a8e6093
+      internalID: -475960192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_139"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 25
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425ffcc6282e640efbd20ec9d70c7467
+      internalID: -1651114352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_140"
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 27
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d197f7c473fb4e8696b0dde5353d3bc
+      internalID: 1490428699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_141"
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 25
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e7d806b2d5644239fbacc6df6c10d5
+      internalID: -1247582727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_142"
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 22
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b29cd6bf92d4d0680b60b2061f0023
+      internalID: 338197189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_143"
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 21
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901c3b2f73ef94ac7aa87f990aaf52fa
+      internalID: 1838201209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_144"
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 29
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dca84303ace546dc91fb72761bed969
+      internalID: 1320187100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_145"
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 21
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3671eb4275746f0b36aab86fbdc416
+      internalID: -2017722536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_146"
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 20
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d222287f9c8eb4fa6ac3a744baaddc1f
+      internalID: 364705477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_147"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 19
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a042389a5779544bab6a172202cbba88
+      internalID: -923259043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_148"
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 19
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bff6ab488914082addc7313fc00696
+      internalID: -1443571648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_149"
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 21
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de25e226740304160975713dc0edf699
+      internalID: 1065342370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_150"
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 19
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf643e5f93bd48ec9600cd8119b5169
+      internalID: 620318870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_0": -1699861179
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_1": 1534944212
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_10": 1329117182
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_100": 959182225
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_101": 1244112131
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_102": 1756654936
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_103": 651021470
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_104": 1263702861
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_105": 1905976486
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_106": -1336982890
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_107": -947812239
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_108": -1499518545
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_109": -400484094
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_11": 1827492948
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_110": 1863387524
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_111": -1752784963
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_112": 1303231638
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_113": 1505310576
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_114": 959921067
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_115": -1643428682
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_116": -1672154594
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_117": 1086982273
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_118": 215520234
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_119": -156306359
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_12": 841807179
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_120": -1549590638
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_121": 1718952523
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_122": 1479741435
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_123": -1982733349
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_124": -1715104942
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_125": 1868847741
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_126": 1228652526
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_127": 2018206639
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_128": -688177334
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_129": -837144609
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_13": 1706857543
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_130": -224386218
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_131": 2087335267
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_132": -709231395
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_133": -161979295
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_134": -48488919
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_135": 1814661110
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_136": 1248764903
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_137": -374156367
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_138": -475960192
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_139": -1651114352
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_14": -1524577099
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_140": 1490428699
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_141": -1247582727
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_142": 338197189
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_143": 1838201209
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_144": 1320187100
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_145": -2017722536
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_146": 364705477
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_147": -923259043
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_148": -1443571648
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_149": 1065342370
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_15": 1351187031
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_150": 620318870
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_16": 1869290928
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_17": -2098206956
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_18": -1439618503
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_19": 1115171720
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_2": -792580498
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_20": -13018747
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_21": -1906125441
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_22": -99553306
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_23": -192167097
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_24": -102454239
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_25": -328822405
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_26": -2124282241
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_27": 153608507
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_28": -1998942121
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_29": -829578862
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_3": 1041907463
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_30": -1456602085
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_31": 1480780231
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_32": 754034882
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_33": -133776175
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_34": 1326465927
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_35": -1018607134
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_36": -645583470
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_37": 883176551
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_38": 1384516695
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_39": 1251472235
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_4": -775122762
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_40": 609086059
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_41": 184394722
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_42": 2071893695
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_43": 870187150
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_44": -1245486286
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_45": 1949469547
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_46": -1073771891
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_47": 722912375
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_48": -210801453
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_49": 1656027919
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_5": 1703230557
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_50": -1544428081
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_51": 1972008976
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_52": 776873771
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_53": -653177184
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_54": 38471038
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_55": -1413016853
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_56": 120402914
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_57": 521290598
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_58": 737917715
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_59": -18075722
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_6": 153143670
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_60": 1494313523
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_61": 1056249636
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_62": 1611393419
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_63": -681530440
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_64": -1080727746
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_65": -1644042389
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_66": -1261921115
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_67": -356199650
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_68": 1747855467
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_69": 231564372
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_7": 1230018355
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_70": -2039771796
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_71": -67649191
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_72": -439895548
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_73": 692455821
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_74": -1874597133
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_75": -470629420
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_76": 265031865
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_77": 175542685
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_78": -1162095878
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_79": -848839882
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_8": -570748798
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_80": 1931360653
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_81": -1968332501
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_82": -683753928
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_83": 1216720720
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_84": 1502782045
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_85": -182251190
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_86": -1718040545
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_87": 1164812083
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_88": 669721597
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_89": 523188846
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_9": -1095402516
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_90": 99842833
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_91": 630434948
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_92": 1590916447
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_93": -124610390
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_94": 642659366
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_95": 2067284980
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_96": 1282839063
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_97": 898566558
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_98": -256175535
+      "Hoja_de_sprites_de_proyectil_neo\u0301n_retro-removebg-preview_99": 220618545
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
